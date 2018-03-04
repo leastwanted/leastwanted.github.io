@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leastwanted.github.io/"/>
-  <updated>2018-02-21T08:44:06.301Z</updated>
+  <updated>2018-03-04T07:29:18.199Z</updated>
   <id>https://leastwanted.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Love Confession</title>
+    <link href="https://leastwanted.github.io/2018/03/04/Love-Confession/"/>
+    <id>https://leastwanted.github.io/2018/03/04/Love-Confession/</id>
+    <published>2018-03-04T07:27:28.000Z</published>
+    <updated>2018-03-04T07:29:18.199Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/love-confession.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/love-confession.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>淹没在娱乐的海洋中 —— 《娱乐至死》读后有感</title>
@@ -43,9 +65,9 @@
     <link href="https://leastwanted.github.io/2017/12/23/hexo-setup/"/>
     <id>https://leastwanted.github.io/2017/12/23/hexo-setup/</id>
     <published>2017-12-23T07:53:46.000Z</published>
-    <updated>2018-02-21T08:11:11.063Z</updated>
+    <updated>2018-03-04T07:18:00.332Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>很久前就有搭建自己的网站的意愿了，于是乎趁着圣诞假日行动起来</p><p>考虑的技术方案如下：</p><p>1.wordpress. 很久之前用过，但早已抛弃，因为有点out of dated</p><p>2.作为一个程序员，就要考虑如何托管网站的代码和页面，那么github是不二之选。</p><p>3.Jekyll之前用过，对ruby没有太多好感，所以放弃。</p><p>4.所以不如试试<a href="https://github.com/hexojs/hexo" target="_blank" rel="noopener">Hexo</a></p><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ul><li><p><a href="https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/" target="_blank" rel="noopener">https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/</a></p></li><li><p><a href="https://github.com/limedroid/HexoLearning" target="_blank" rel="noopener">https://github.com/limedroid/HexoLearning</a></p></li><li><p><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">https://github.com/litten/hexo-theme-yilia</a></p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>很久前就有搭建自己的网站的意愿了，于是乎趁着圣诞假日行动起来</p><p>考虑的技术方案如下：</p><p>1.wordpress. 很久之前用过，但早已抛弃，因为有点out of dated</p><p>2.作为一个程序员，就要考虑如何托管网站的代码和页面，那么github是不二之选。</p><p>3.Jekyll之前用过，对ruby没有太多好感，所以放弃。</p><p>4.所以不如试试<a href="https://github.com/hexojs/hexo" target="_blank" rel="noopener">Hexo</a></p><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ul><li><p>指令速查：<a href="https://hexo.io/zh-cn/docs/commands.html" target="_blank" rel="noopener">https://hexo.io/zh-cn/docs/commands.html</a></p></li><li><p><a href="https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/" target="_blank" rel="noopener">https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/</a></p></li><li><p><a href="https://github.com/limedroid/HexoLearning" target="_blank" rel="noopener">https://github.com/limedroid/HexoLearning</a></p></li><li><p><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">https://github.com/litten/hexo-theme-yilia</a></p></li></ul>]]></content>
     
     <summary type="html">
     
